@@ -1,3 +1,8 @@
+#########################################
+#   By Sarah Khoja                      #
+#   Crypto- OTP                         #
+#########################################
+
 import sys, random, string, binascii,os.path
 
 def read(name):
